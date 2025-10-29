@@ -1,0 +1,7 @@
+Type,Value,Description
+URL,https://sp910846.sitebeat.crazydomains.com/,Phishing landing page
+Hostname,sp910846.sitebeat.crazydomains.com,Malicious subdomain
+Registrar,CrazyDomains Pty Ltd,Hosting provider abused
+SSL Issuer,Let's Encrypt,Free SSL certificate used for legitimacy
+Technique,T1566.002,Spearphishing Link
+Technique,T1056,Input Capture
