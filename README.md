@@ -1,5 +1,6 @@
 # 🎣 Phishing Lab Analysis  
 
 ### Overview: 
-Investigating a Malicious Domain Using OSINT Techniques
+This is a phishing investigating about a malicious domain
+The objective of this is to analyze the domain by using OSINT resources
 
