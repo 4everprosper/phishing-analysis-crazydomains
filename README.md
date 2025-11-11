@@ -6,7 +6,9 @@ The objective of this is to analyze the domain by using OSINT resources.
 
 ---
 
-## Websites used.
--urlscan.io
--phishtank.com
--virustotal.com 
+## Websites used
+- urlscan.io
+- phishtank.com
+- virustotal.com 
+
+---
