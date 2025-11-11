@@ -18,7 +18,9 @@ Next, click an ID number and investigate the URL
 # 🌐 Websites Used
 - [PhishTank](https://phishtank.org) – Verified and analyzed suspicious URLs  
 - [URLScan.io](https://urlscan.io/) — Used to analyze and visualize website behavior, identify malicious URLs, and gather threat intelligence on phishing domains.
-- [VirusTotal](https://www.virustotal.com) – Scanned URLs and files for malicious indicators  
+- [VirusTotal](https://www.virustotal.com) – Scanned URLs and files for malicious indicators
+- [url2png.com](https://www.url2png.com/) – Captured full-page screenshots of phishing websites for documentation and visual analysis.
+
 
 
 ---
@@ -40,6 +42,13 @@ Next, click an ID number and investigate the URL
 ### 3. VirusTotal 
 
 <img width="1675" height="913" alt="Screenshot 2025-11-10 at 9 23 34 PM" src="https://github.com/user-attachments/assets/6c697947-ac6c-49f5-a620-ad264fff4d6f" />
+
+---
+
+## 4. URL2PNG
+
+
+<img width="3360" height="1576" alt="image" src="https://github.com/user-attachments/assets/3b9609fa-e4a3-4fa1-90fa-ebc86789c31e" />
 
 ---
 
