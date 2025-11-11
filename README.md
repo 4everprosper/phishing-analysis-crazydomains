@@ -19,7 +19,6 @@ Next, click an ID number and investigate the URL
 - [PhishTank](https://phishtank.org) – Verified and analyzed suspicious URLs  
 - [URLScan.io](https://urlscan.io/) — Used to analyze and visualize website behavior, identify malicious URLs, and gather threat intelligence on phishing domains.
 - [VirusTotal](https://www.virustotal.com) – Scanned URLs and files for malicious indicators  
-- [URLScan.io](https://urlscan.io) – Visualized and analyzed webpage network requests
 
 
 ---
